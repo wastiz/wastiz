@@ -12,7 +12,7 @@
 - 🌱 I’m currently working on my Airsoft project (Airsoft FE) https://github.com/wastiz/Airsoft-Narva  
   
 
-- 💪 Have fluence in MERN stack and other web technologies  
+- 💪 Have fluence in MERN stack, other web technologies and in many other languages
   
 
 <br/>  
